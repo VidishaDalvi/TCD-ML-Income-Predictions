@@ -1,4 +1,6 @@
 # TCD-ML-Income-Predictions
+#Instructions by Professor Joeran Beel as a part of semester 1 Machine Learning course for MSc.Data Science
+
 Overall Goal and Guidelines
 The goal of this assignment is to let you gain experience with machine learning, not only the algorithms but the entire machine learning pipeline. To do so, we provide a synthetic dataset that contains a list of persons and their yearly salaries, whereas for each person a number of features are provided (e.g. age, nationality, and profession). Your goal is to train a machine learning model that predicts a person´s income based on the given features.
 
